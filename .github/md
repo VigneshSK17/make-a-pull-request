@@ -1,0 +1,70 @@
+[?1049h[?1h=[H[2J[?2004h[?2026$p[?2027$p[?2031$p[?2048$p[?u[c[?25h[?25l(B[m[H                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                [?1004h[?25h[?25l[H(B[0;1m[38:2:246:194:165m[48:2:16:16:16m PULL_REQUEST_TEMPLATE (B[m[38:2:224:226:234m[48:2:79:82:88m                                                         
+(B[m[38:2:225:106:94m[48:2:16:16:16m  (B[0;1m[38:2:246:194:165m[48:2:16:16:16m1   (B[m[38:2:79:82:88m[48:2:44:46:51m.(B[m[38:2:246:194:165m[48:2:44:46:51m                                                                         
+(B[m[38:2:16:16:16m[48:2:16:16:16m~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+(B[m[38:2:246:194:165m[48:2:16:16:16m                                                                                (B[m[38:2:246:194:165m[48:2:16:16:16m
+[J[2 q[2 q[?1002h[?1006h[H(B[0;1m[38:2:246:194:165m[48:2:16:16:16m PULL_REQUEST_TEMPLATE (B[m[38:2:224:226:234m[48:2:79:82:88m[K
+(B[m[38:2:225:106:94m[48:2:16:16:16m  (B[0;1m[38:2:246:194:165m[48:2:16:16:16m1   (B[m[38:2:79:82:88m[48:2:44:46:51m.(B[m[38:2:246:194:165m[48:2:44:46:51m[K
+(B[m[38:2:16:16:16m[48:2:16:16:16m~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K(B[m[38:2:246:194:165m[48:2:16:16:16m
+[K(B[m[38:2:246:194:165m[48:2:16:16:16m
+[J[2;7H[?25h[?25l[22B[nvim-treesitter] [0/9] Downloading tree-sitter-rust...[24;1H[55X[nvim-treesitter] [0/9] Downloading tree-sitter-cpp...[24;1H[54X[nvim-treesitter] [0/9] Downloading tree-sitter-python...[24;1H[57X[nvim-treesitter] [0/9] Downloading tree-sitter-lua...[24;1H[54X[nvim-treesitter] [0/9] Downloading tree-sitter-vim...[24;1H[54X[nvim-treesitter] [0/9] Downloading tree-sitter-vimdoc...[24;1H[57X[nvim-treesitter] [0/9] Downloading tree-sitter-c...[24;1H[52X[nvim-treesitter] [0/9] Downloading tree-sitter-query...[24;1H[56X[nvim-treesitter] [0/9] Downloading tree-sitter-java...[H(B[0;1m[38:2:17:17:17m[48:2:255:213:181m PULL_REQUEST_TEMPLATE (B[m[38:2:180:138:106m[48:2:215:217:225m                                                      (B[0;1m[38:2:17:17:17m[48:2:255:213:181m 1 [22B NORMAL (B[m[38:2:255:213:181m[48:2:17:17:17m main (B[m[38:2:180:138:106m[48:2:215:217:225m PULL_REQUEST_TEMPLATE                                    (B[0;1m[38:2:17:17:17m[48:2:255:213:181m   1:1  [2;7H[?25h[?25l(B[m[38:2:246:194:165m[48:2:16:16:16m[22B[55X[nvim-treesitter] [0/9] Creating temporary directory[2;7H[?25h[?25l[22B[52X[nvim-treesitter] [0/9] Extracting tree-sitter-vimdoc...[2;7H[?25h[?25l[22B[56X[nvim-treesitter] [0/9] Compiling...[2;7H[?25h[?25l[22B[36X[nvim-treesitter] [0/9] Creating temporary directory[2;7H[?25h[?25l[22B[52X[nvim-treesitter] [0/9] Extracting tree-sitter-lua...[2;7H[?25h[?25l[22B[53X[nvim-treesitter] [0/9] Compiling...[2;7H[?25h[?25l[22B[36X[nvim-treesitter] [0/9] Creating temporary directory[2;7H[?25h[?25l[22B[52X[nvim-treesitter] [0/9] Creating temporary directory[2;7H[?25h[?25l[22B[52X[nvim-treesitter] [0/9] Extracting tree-sitter-query...[2;7H[?25h[?25l[22B[55X[nvim-treesitter] [0/9] Extracting tree-sitter-java...[2;7H[?25h[?25l[22B[54X[nvim-treesitter] [0/9] Compiling...[2;7H[?25h[?25l[22B[36X[nvim-treesitter] [0/9] Compiling...[2;7H[?25h[?25l[22B[36X[nvim-treesitter] [0/9] Creating temporary directory[2;7H[?25h[?25l[22B[52X[nvim-treesitter] [0/9] Extracting tree-sitter-c...[2;7H[?25h[?25l[22B[51X[nvim-treesitter] [0/9] Creating temporary directory[2;7H[?25h[?25l[22B[52X[nvim-treesitter] [0/9] Creating temporary directory[24;1H[52X[nvim-treesitter] [0/9] Creating temporary directory[24;1H[52X[nvim-treesitter] [0/9] Extracting tree-sitter-rust...[2;7H[?25h[?25l[22B[54X[nvim-treesitter] [0/9] Extracting tree-sitter-python...[24;1H[56X[nvim-treesitter] [0/9] Extracting tree-sitter-vim...[2;7H[?25h[?25l[22B[53X[nvim-treesitter] [0/9] Creating temporary directory[2;7H[?25h[?25l[22B[52X[nvim-treesitter] [0/9] Extracting tree-sitter-cpp...[2;7H[?25h[?25l[22B[53X[nvim-treesitter] [0/9] Compiling...[2;7H[?25h[?25l[22B[36X[nvim-treesitter] [0/9] Compiling...[2;7H[?25h[?25l[22B[36X[nvim-treesitter] [0/9] Compiling...[2;7H[?25h[?25l[22B[36X[nvim-treesitter] [0/9] Compiling...[2;7H[?25h[?25l[22B[36X[nvim-treesitter] [0/9] Compiling...[2;7H[?25h
